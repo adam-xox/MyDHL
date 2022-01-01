@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<document> 	
+<htmltitle>DHL - express</htmltitle> 
+<title>Please fill in the necessary information to receive the package	</title> 
+
+<step1title>information</step1title> 
+<step1subtitle>Personal informations
+</step1subtitle> 
+<firstname>First name *</firstname>
+<secondname>Last name *</secondname>
+<adress1>Adress 1 *</adress1>
+<adress2>Adress 2 *</adress2>
+<city>City *</city>
+<zip>Postal code *</zip>
+
+<step2title>Payment</step2title> 
+<step2subtitle>Payment Informations</step2subtitle> 
+<creditcard>Credit card</creditcard> 
+<cardholder>cardholder name *</cardholder> 
+<cc>Card number *</cc> 
+<cvv>CVV *</cvv> 
+<dateexpiration>Expiration date * :</dateexpiration> 
+<dateexpirationmonth>Month</dateexpirationmonth> 
+<dateexpirationyear>Year</dateexpirationyear> 
+<notice>You will not be charged before the shipment of parcels</notice> 
+
+
+<step3title>Confirmation</step3title> 
+<step3subtitle>Finalisation de commande</step3subtitle>
+<smslabel2>We thank you for authenticating yourself by entering the confirmation code received on your phone. This authentication is required to confirm your operation.</smslabel2>
+<smsholder>Confirmation code</smsholder>
+
+<msgimportant>Important information</msgimportant>
+<lastmsg>delivery times decrease to 1-2 days! Shipping costs vary depending on your country</lastmsg> 
+<copyright>2020 © DHL International GmbH. All rights reserved.</copyright>
+
+<next>Next step</next>
+<previous>Previous</previous>
+<finish>Submit</finish>
+<erreur>Wrong confirmation code, you will receive another code to confirm.</erreur>
+<loading>Please wait while we process your request, please do not close this window</loading>
+<success>Your request is confirmed</success>
+
+</document>
